@@ -7,8 +7,8 @@ setup(
     license='MIT',
     author='Jin Suk Park',
     author_email='totorovirus@gmail.com',
-    packages=['powerline-dday'],
-    version="1.0.0",
+    packages=['jinmel'],
+    version="1.0.3",
     classifiers=[
         'Environment :: Console',
         'Intended Audience :: Developers',
